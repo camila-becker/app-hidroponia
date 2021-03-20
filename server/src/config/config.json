@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "102715",
+    "database": "hidroponia",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "102715",
+    "database": "hidroponia",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "roberto.lange",
+    "password": "platafhidrop",
+    "database": "hidroponia",
+    "host": "mysql743.umbler.com",
+    "dialect": "mysql"
+  }
+}
